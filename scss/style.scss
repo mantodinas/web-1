@@ -3,6 +3,11 @@
 @import 'text';
 @import 'footer';
 
+:root { //root to be in order to make color for all html elements
+    --box-main-color:#5ac2d4;
+}
+
+
 body {
     margin: 0;
     padding: 0;
