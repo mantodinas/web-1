@@ -1,0 +1,21 @@
+/* ----------text-START */
+.text-container {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 150px;
+    background-color: #00505e;
+}
+
+p {
+    text-align: center;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* ----------text-END */

@@ -1,0 +1,12 @@
+@import 'navbar';
+@import 'img';
+@import 'text';
+@import 'footer';
+
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(21,68,78);
+    background: linear-gradient(0deg, rgba(21,68,78,1) 0%, rgba(20,7,19,1) 100%);
+    background-attachment: fixed;
+}
